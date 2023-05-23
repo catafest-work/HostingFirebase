@@ -1,0 +1,17 @@
+{
+  "name": "hostingfirebase",
+  "version": "1.0.0",
+  "description": "a simple firebase hosting test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "catafest",
+    "catafest-work",
+    "firebase",
+    "hosting"
+  ],
+  "author": "catafest,mythcat,catafest-work",
+  "license": "ISC"
+}
