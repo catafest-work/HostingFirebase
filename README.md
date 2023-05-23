@@ -120,3 +120,7 @@ Hosting URL: https://website-2cc11.web.app
 
 ![basic deploy firebase](firebase-deploy.png) 
 
+- for preview use this command: 
+
+``` firebase hosting:channel:deploy preview_name ```
+
